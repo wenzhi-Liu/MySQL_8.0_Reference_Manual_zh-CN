@@ -1,0 +1,4 @@
+# 11.3.3 BINARY与VARBINARY类型  
+
+上一节 << [11.3.2 11.3.2 CHAR与VARCHAR类型](../02/The%20CHAR%20and%20VARCHAR%20Types.md)  
+下一节 << [11.3.4 BLOB与TEXT类型](../04/The%20BLOB%20and%20TEXT%20Types.md)

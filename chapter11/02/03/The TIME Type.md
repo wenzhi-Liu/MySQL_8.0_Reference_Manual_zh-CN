@@ -1,0 +1,4 @@
+# 11.2.3 TIME类型  
+
+上一节 << [11.2.2 DATE, DATETIME与TIMESTAMP类型](../02/The%20DATE%2C%20DATETIME%2C%20and%20TIMESTAMP%20Types.md)  
+下一节 << [11.2.4 YEAR类型](../04/The%20YEAR%20Type.md)
