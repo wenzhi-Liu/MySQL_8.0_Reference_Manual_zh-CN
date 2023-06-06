@@ -25,7 +25,7 @@ SERIAL是BIGINT UNSIGNED NOT NULL AUTO_INCREMENT UNIQUE的别名。
 位值类型。***M*** 表示每个值的二进制位数，从1到64。如果省略 ***M***，则默认为1。
 
 -   TINYINT[(***M***)] [UNSIGNED] [ZEROFILL]  
-数值非常小的整数类型。有符号数值的范围是$-128$到$127$，无符号数值的范围是$0$到$255$。
+数值非常小的整数类型。有符号数值的范围是 $-128$ 到 $127$ ，无符号数值的范围是$0$到$255$。
 
 -   BOOL, BOOLEAN  
 该类型是TINYINT(1)的同义词。零值被认为是false，非零值被认为是true：
