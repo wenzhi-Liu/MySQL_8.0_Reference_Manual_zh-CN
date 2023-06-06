@@ -21,10 +21,10 @@ SERIAL是BIGINT UNSIGNED NOT NULL AUTO_INCREMENT UNIQUE的别名。
 > Warning！  
 > 当你使用整数值之间的减法运算时，若其中一个值是UNSIGNED类型，则结果无符号的，除非SQL启用了NO_UNSIGNED_SUBTRACTION模式。详情请看[“12.11 转换函数和运算符”](#)。  
 
--   BIT[ (***M***) ]  
+-   BIT[(***M***)]  
 位值类型。***M*** 表示每个值的二进制位数，从1到64。如果省略 ***M***，则默认为1。
 
--   TINYINT[ (***M***) ] [UNSIGNED] [ZEROFILL]  
+-   TINYINT[(***M***)] [UNSIGNED] [ZEROFILL]  
 数值非常小的整数类型。有符号数值的范围是$-128$到$127$，无符号数值的范围是$0$到$255$。
 
 -   BOOL, BOOLEAN  
